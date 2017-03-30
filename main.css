@@ -1,0 +1,38 @@
+
+body {
+	margin: 10px;
+}
+
+fieldset {
+	margin-top:10px;
+}
+
+#dataTable {
+	margin: 20px 10px 10px 0;
+}
+
+#dataTable th {
+	background-color: #E18728;
+	padding: 8px;
+	text-align: left;
+	color: #fff;
+}
+
+#dataTable td {
+	padding: 3px 8px 3px 8px;
+}
+
+#dataTable tr.lgrey {
+	background-color: #eee;
+	color: #333;
+}
+
+#dataTable tr.dgrey {
+	background-color: #ddd;
+	color: #333;
+}
+
+.error {
+	color: #f00;
+	font-weight: bold;
+}
